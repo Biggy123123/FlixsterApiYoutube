@@ -1,32 +1,32 @@
-📝 `NOTE` Paste this template at the top of your existing `README.md` file from part 1 of this assignment. (🚫 Remove this paragraph after after checking off completed user stories)
+📝 `NOTE` Collez ce modèle en haut de votre fichier `README.md` existant de la partie 1 de ce devoir. (🚫 Supprimez ce paragraphe après avoir coché les user stories terminées)
 
-## Flix Part 2
+## Flix Partie 2
 
-### User Stories
+### Histoires d'utilisateurs
 
-#### REQUIRED (10pts)
+#### OBLIGATOIRE (10pts)
 
-- [X] (8pts) Expose details of movie (ratings using RatingBar, popularity, and synopsis) in a separate activity.
-- [X] (2pts) Allow video posts to be played in full-screen using the YouTubePlayerView.
+- [X] (8pts) Exposez les détails du film (notes à l'aide de RatingBar, popularité et synopsis) dans une activité distincte.
+- [X] (2pts) Autoriser la lecture des publications vidéo en plein écran à l'aide de YouTubePlayerView.
 
-#### BONUS
+#### PRIME
 
-- [ ] Implement a shared element transition when user clicks into the details of a movie (1 point).
-- [ ] Trailers for popular movies are played automatically when the movie is selected (1 point).
-  - [ ] When clicking on a popular movie (i.e. a movie voted for more than 5 stars) the video should be played immediately.
-  - [ ] Less popular videos rely on the detailed page should show an image preview that can initiate playing a YouTube video.
-- [ ] Add a play icon overlay to popular movies to indicate that the movie can be played (1 point).
-- [ ] Apply data binding for views to help remove boilerplate code. (1 point)
-- [ ] Add a rounded corners for the images using the Glide transformations. (1 point)
+- [ ] Implémenter une transition d'élément partagé lorsque l'utilisateur clique sur les détails d'un film (1 point).
+- [ ] Les bandes-annonces des films populaires sont lues automatiquement lorsque le film est sélectionné (1 point).
+  - [ ] Lorsque vous cliquez sur un film populaire (c'est-à-dire un film voté pour plus de 5 étoiles), la vidéo doit être lue immédiatement.
+  - [ ] Les vidéos moins populaires s'appuient sur la page détaillée doivent afficher un aperçu de l'image qui peut lancer la lecture d'une vidéo YouTube.
+- [ ] Ajoutez une superposition d'icône de lecture aux films populaires pour indiquer que le film peut être lu (1 point).
+- [ ] Appliquer la liaison de données pour les vues pour aider à supprimer le code passe-partout. (1 point)
+- [ ] Ajoutez des coins arrondis pour les images en utilisant les transformations Glide. (1 point)
 
-### App Walkthough GIF
+### App Walkthrough GIF
 <img src="https://submissions.us-east-1.linodeobjects.com/android_university/ASkuCve_.gif" width=250><br>
 
 
-### Notes
+### Remarques
 
-Describe any challenges encountered while building the app.
+Décrivez les difficultés rencontrées lors de la création de l'application.
 
-## Open-source libraries used
-- [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
-- [Glide](https://github.com/bumptech/glide) - Image loading and caching library for Android
+## Bibliothèques open-source utilisées
+- [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Requêtes HTTP asynchrones simples avec analyse JSON
+- [Glide](https://github.com/bumptech/glide) - Bibliothèque de chargement et de mise en cache d'images pour Android
