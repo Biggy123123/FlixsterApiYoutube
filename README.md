@@ -20,7 +20,7 @@
 - [ ] Ajoutez des coins arrondis pour les images en utilisant les transformations Glide. (1 point)
 
 ### App Walkthrough GIF
-<img src=https://github.com/Biggy123123/FlixsterApiYoutube/blob/main/apiYoutube.gif" width=250><br>
+<img src="https://submissions.us-east-1.linodeobjects.com/android_university/tb9JDyFX.gif" width=250><br>
 
 ### Remarques
 
