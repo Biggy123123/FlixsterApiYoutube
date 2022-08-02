@@ -20,8 +20,8 @@
 - [ ] Add a rounded corners for the images using the Glide transformations. (1 point)
 
 ### App Walkthough GIF
+<img src="https://submissions.us-east-1.linodeobjects.com/android_university/ASkuCve_.gif" width=250><br>
 
-<img src="https://submissions.us-east-1.linodeobjects.com/android_university/L-k830wT.gif" width=250><br>
 
 ### Notes
 
